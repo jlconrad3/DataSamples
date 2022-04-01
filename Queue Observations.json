@@ -1,0 +1,872 @@
+{
+  "systemToOrganizationMappings": {
+    "OFFLINE": [
+      "ccf3c10a-aa2c-4845-8e8d-f59fa48c58e5"
+    ]
+  },
+  "results": [
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a",
+        "mediaType": "chat"
+      },
+      "data": [
+        {
+          "metric": "oInteracting",
+          "stats": {
+            "count": 8
+          },
+          "truncated": false,
+          "observations": [
+            {
+              "observationDate": "2022-04-01T13:52:01.362Z",
+              "conversationId": "d9955f42-cc92-4665-a55f-12b8d7cbb0e7",
+              "sessionId": "b31d1a46-0804-440e-b672-e0670dc4395c",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "9370fcbe-dbeb-4b32-9d06-5182920c742a",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:52:41.458Z",
+              "conversationId": "570dfbf3-3dbd-46cf-aa9a-89f43d32d41c",
+              "sessionId": "afbecb7d-6c3d-4e9a-9382-d18f6feaf69f",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "d223a3e9-5338-4583-b573-d6440e493b50",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:53:01.299Z",
+              "conversationId": "f36da6dc-59f9-4824-9220-999fd26bda7a",
+              "sessionId": "bfe3dd4a-d955-462a-a775-3a32dc63b0c2",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "13416f4e-dce3-4f18-aa6f-e808bd8bce59",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:54:41.448Z",
+              "conversationId": "a2179c85-b9b6-4d27-acc8-492dc96769da",
+              "sessionId": "91f00a57-0663-4d88-9859-042113539a8d",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "7bf2a7a8-f0b0-4734-9168-5b11480a3387",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:01.367Z",
+              "conversationId": "e07c405e-391b-4697-b73c-ca890f7f1ecc",
+              "sessionId": "3e5c063e-5514-48ad-9698-97d90f887fb7",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "60faf1a7-dfba-408b-8635-3c732d2c4640",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:21.357Z",
+              "conversationId": "7e8c7dd5-bf84-4c0f-a6e2-83cc8755a0ea",
+              "sessionId": "db532f26-e366-4fe6-a0ad-adbeb6c2ee04",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "9f21c95e-2e37-4a04-88eb-0f2dc651eeb0",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:41.366Z",
+              "conversationId": "0ccef343-2afe-4ce0-be75-1d331e63df09",
+              "sessionId": "f19876cb-3a58-4f69-8582-6f373e3a6394",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "9ee5d80b-4033-48f1-af04-a3465b18741c",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:56:02.331Z",
+              "conversationId": "c8090a4c-5cbf-42a9-858c-3334f5003936",
+              "sessionId": "0a8086fe-e06f-4f67-b9bc-ca7c91b29b09",
+              "routingPriority": 0,
+              "participantName": "Chat Customer",
+              "userId": "8946b127-74d3-44f7-a160-0b32dc4f606f",
+              "direction": "inbound",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            }
+          ]
+        },
+        {
+          "metric": "oWaiting",
+          "stats": {
+            "count": 0
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a",
+        "mediaType": "voice"
+      },
+      "data": [
+        {
+          "metric": "oInteracting",
+          "stats": {
+            "count": 42
+          },
+          "truncated": false,
+          "observations": [
+            {
+              "observationDate": "2022-04-01T13:47:22.290Z",
+              "conversationId": "f3fe67a5-ad02-4222-bcd7-40a1fa4fd2e0",
+              "sessionId": "1a4de1dd-bbb7-4edf-adfb-d8a1df37f22c",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "7ba7138b-2c92-4be0-93bc-51065af99c99",
+              "direction": "inbound",
+              "ani": "tel:+444168838778",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:47:36.238Z",
+              "conversationId": "26d5d5a8-1a47-4a5a-b8bc-ba9d34ebb6b0",
+              "sessionId": "94ec4b56-f334-4989-a999-9e77ee15b523",
+              "routingPriority": 0,
+              "participantName": "Signagi, Georgia",
+              "userId": "6431f192-b590-47ec-9f74-92b630367712",
+              "direction": "inbound",
+              "ani": "tel:+99535507714487",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:47:50.362Z",
+              "conversationId": "dd59baef-f5f0-40ab-b6ec-9a892f701038",
+              "sessionId": "f1c3b7c3-60f8-4c37-a8ba-4e107ed58cdd",
+              "routingPriority": 0,
+              "participantName": "Japan",
+              "userId": "aabca772-46e8-4956-b013-45aafda585da",
+              "direction": "inbound",
+              "ani": "tel:+817400506700",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:48:04.401Z",
+              "conversationId": "a4b390d2-8696-47e3-96ae-55dae65fa9bc",
+              "sessionId": "fc62d95d-bd19-4c4a-991f-43b1bb659e92",
+              "routingPriority": 0,
+              "participantName": "Luxembourg",
+              "userId": "eb1baba2-ff67-4b63-bedf-0e72f4f951c6",
+              "direction": "inbound",
+              "ani": "tel:+352217836",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:48:18.307Z",
+              "conversationId": "51df31e7-c023-4f67-bbc2-1b55d6e2101d",
+              "sessionId": "18cac66d-9304-440b-a90d-3f09667bcc3c",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "64d9fecd-e292-4c64-a87e-698144489510",
+              "direction": "inbound",
+              "ani": "tel:+994029690655",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:48:32.180Z",
+              "conversationId": "085a5847-c893-4c74-b2d5-80f105b7facd",
+              "sessionId": "049819b0-79d5-4d59-b438-28723baf035e",
+              "routingPriority": 0,
+              "participantName": "Luxembourg",
+              "userId": "4cae07cf-944d-49ac-8d3f-cf0e488ea027",
+              "direction": "inbound",
+              "ani": "tel:+352795698",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:48:46.200Z",
+              "conversationId": "e4780315-78f7-4e87-82ad-39fb10194886",
+              "sessionId": "685d0c7b-98c4-4258-b88a-209ba1ec8b65",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "9fd43277-b06f-4e21-bf19-ae015099991e",
+              "direction": "inbound",
+              "ani": "tel:+903377777088",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:49:00.348Z",
+              "conversationId": "c0fe1ae5-fb17-4b30-9ed8-41612a57e3da",
+              "sessionId": "8f8797b8-eaa0-4d06-aa6f-2a0575877588",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "7b2c1239-0c81-4d93-8a81-ecb38945986a",
+              "direction": "inbound",
+              "ani": "tel:+615358212610",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:49:14.280Z",
+              "conversationId": "ab7dbcac-5a06-47d7-b30f-471074b5671e",
+              "sessionId": "c78ea133-d23b-417e-a64d-fb722122e157",
+              "routingPriority": 0,
+              "participantName": "Luxembourg",
+              "userId": "92ee4022-5bc1-4c2b-8068-04cb6552a532",
+              "direction": "inbound",
+              "ani": "tel:+352603027",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:49:28.351Z",
+              "conversationId": "bea7ef53-8a5f-4839-adc5-27bb9c0cc009",
+              "sessionId": "3fcafbda-604f-4066-8766-e3f34cfb60c8",
+              "routingPriority": 0,
+              "participantName": "Japan",
+              "userId": "5880a764-2131-4a2a-853e-49ea645b7095",
+              "direction": "inbound",
+              "ani": "tel:+811900938771",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:49:42.325Z",
+              "conversationId": "b6c8847c-d1c2-4280-9b5f-6d65dadad12b",
+              "sessionId": "54b8f906-5959-409f-a475-12eb5ac383f2",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "00e5e64c-9707-479a-9a99-1379f8350869",
+              "direction": "inbound",
+              "ani": "tel:+445805864070",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:49:56.313Z",
+              "conversationId": "f108369a-2b70-4d1c-a9c2-ede228387e24",
+              "sessionId": "de084e1d-bca9-48cb-8497-71d6c6ca1737",
+              "routingPriority": 0,
+              "participantName": "Georgia",
+              "userId": "8c2c5e84-a966-4daa-8eb0-e9f655f3f27d",
+              "direction": "inbound",
+              "ani": "tel:+99558071829885",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:50:10.468Z",
+              "conversationId": "c178641c-274b-4970-915b-6b71f6a614c7",
+              "sessionId": "8527272a-e499-4783-9fed-95d6df9ca878",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "aee85710-390d-42fc-a43c-82fb55906672",
+              "direction": "inbound",
+              "ani": "tel:+994254915273",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:50:24.455Z",
+              "conversationId": "0e86b4ea-c5b0-432b-85ae-61e54f46b03a",
+              "sessionId": "b44efb15-69ae-42fc-91dd-413ae1c27f92",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "35bfd213-7e93-442a-91b0-a803292888a4",
+              "direction": "inbound",
+              "ani": "tel:+612125734340",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:50:38.378Z",
+              "conversationId": "a1b932c2-4222-4575-9ba6-f382596397c5",
+              "sessionId": "51d2c3e5-ff7d-47a9-bb46-2d4b3c81e1a2",
+              "routingPriority": 0,
+              "participantName": "Japan",
+              "userId": "c472c153-9b61-4da7-93f0-0c63ea0ace2f",
+              "direction": "inbound",
+              "ani": "tel:+815794766661",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:50:52.408Z",
+              "conversationId": "4dd986b4-2b19-4b50-9fc9-3c678d2a98db",
+              "sessionId": "25e62168-d004-4b03-8d2f-463aefbcfd3a",
+              "routingPriority": 0,
+              "participantName": "National",
+              "userId": "c19a6906-94a8-48c3-8faa-aa1122350545",
+              "direction": "inbound",
+              "ani": "tel:+14905777573",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:51:06.342Z",
+              "conversationId": "5d955700-ab5e-4dbc-adda-22edbf0237da",
+              "sessionId": "44cf9bbf-1cfb-464e-8503-af69c623b4ef",
+              "routingPriority": 0,
+              "participantName": "Tochigi, Japan",
+              "userId": "5251810b-02f6-4c9c-8f58-32df295a2c51",
+              "direction": "inbound",
+              "ani": "tel:+812828790358",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:51:20.314Z",
+              "conversationId": "dbc1bc9f-47ed-4a12-8ca2-617c12584d2b",
+              "sessionId": "664c617f-b606-46b5-921b-2b73522a7fba",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "94c2a710-777f-4c4d-bcbb-e598be5ce170",
+              "direction": "inbound",
+              "ani": "tel:+994079492331",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:51:34.673Z",
+              "conversationId": "2f9ea2be-8312-491e-85ed-4edcb0bd0305",
+              "sessionId": "4a3f0e5d-d6bc-4587-aa11-0219e689bb58",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "0248dd94-750e-46ba-afbe-ecc611fe6bc9",
+              "direction": "inbound",
+              "ani": "tel:+994110215773",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:51:48.421Z",
+              "conversationId": "8da2f4a5-6b34-48a8-bf33-f0857187ebe6",
+              "sessionId": "782d2175-b08a-43f6-b0d5-c2b998f79136",
+              "routingPriority": 0,
+              "participantName": "Larochette, Luxembourg",
+              "userId": "297c3fca-c09b-40b3-813c-56b70ad4ce54",
+              "direction": "inbound",
+              "ani": "tel:+352278764",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:52:02.253Z",
+              "conversationId": "9094e1bf-61a1-40fd-8dcf-a19945e47c20",
+              "sessionId": "823b9d28-e16c-4372-986e-8edc7baf1bfd",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "cef89308-4adc-40d7-8d92-76b138ea7c44",
+              "direction": "inbound",
+              "ani": "tel:+446197694864",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:52:16.303Z",
+              "conversationId": "1a3a5dd5-9dd6-4b5e-af5b-bc8735e43821",
+              "sessionId": "7559fa53-7c6f-4224-9f11-08bbb50b0a11",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "f974b8f0-cf99-461a-a425-5ec52e77dd7b",
+              "direction": "inbound",
+              "ani": "tel:+994485590972",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:52:30.210Z",
+              "conversationId": "5ddd861d-ccd9-4373-ab62-fa22d6880b36",
+              "sessionId": "2f2c34b1-944d-4b98-abad-86aedef0fa1c",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "500177c4-d18f-4de1-ba29-72e6b9aa4b10",
+              "direction": "inbound",
+              "ani": "tel:+994040246347",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:52:44.419Z",
+              "conversationId": "63c9fb2a-7a75-4e79-af25-98a70bcc6b02",
+              "sessionId": "091cb6a4-0d48-46b9-ad3c-71a09b3c3e8c",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "2e9b5e85-a4d0-4ab1-9f35-7451ea5029e2",
+              "direction": "inbound",
+              "ani": "tel:+440545691693",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:52:58.396Z",
+              "conversationId": "d6656242-129f-4fb7-ad32-25e9733e55f0",
+              "sessionId": "bfd0a246-e4f2-49b1-ada4-0c2308eb4081",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "60edec9e-6866-41cb-94d6-5c1154509749",
+              "direction": "inbound",
+              "ani": "tel:+994569390629",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:53:12.377Z",
+              "conversationId": "a1ecc1a0-a582-49c7-aa80-7952e335f57d",
+              "sessionId": "e84ca88a-c38a-4519-b4f1-4659091a1f86",
+              "routingPriority": 0,
+              "participantName": "VA",
+              "userId": "c24e0809-b74a-409b-9781-abf4317d033e",
+              "direction": "inbound",
+              "ani": "tel:+12769011555",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:53:26.323Z",
+              "conversationId": "c8783396-eab4-4e60-927a-d85399892773",
+              "sessionId": "7ebeef37-9541-4664-a484-1a687595a16b",
+              "routingPriority": 0,
+              "participantName": "Mobile Number, United Kingdom",
+              "userId": "1bb8528c-b1bf-4a05-89f9-e52756dbe555",
+              "direction": "inbound",
+              "ani": "tel:+447719436386",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:53:40.306Z",
+              "conversationId": "e4cd8038-eb91-4b03-93d9-8a1edf498648",
+              "sessionId": "0e488135-1a6d-4867-89e4-a426d2cce0b3",
+              "routingPriority": 0,
+              "participantName": "Japan",
+              "userId": "97936656-42d6-4902-af1b-1e36a1e21b15",
+              "direction": "inbound",
+              "ani": "tel:+810491831219",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:53:54.365Z",
+              "conversationId": "37e55260-659f-43df-9753-a88daf9760cd",
+              "sessionId": "cd897a4b-8665-48be-bdc9-c93324d6bb88",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "beb0176c-404f-4555-99ee-3d6ca2c3577a",
+              "direction": "inbound",
+              "ani": "tel:+619317264244",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:54:08.330Z",
+              "conversationId": "582bc1a4-2436-4a7b-8116-75479abc9a61",
+              "sessionId": "0037a699-2531-4338-b1b4-f073c1a22de1",
+              "routingPriority": 0,
+              "participantName": "Azerbaijan",
+              "userId": "082339ff-2159-44ff-9ee8-b50c1dd5aa21",
+              "direction": "inbound",
+              "ani": "tel:+994789235851",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:54:22.394Z",
+              "conversationId": "1578e5c9-18f5-4f28-ad3c-e04f7fb21028",
+              "sessionId": "3dae97ed-c198-485c-a500-56cd8ea07d0f",
+              "routingPriority": 0,
+              "participantName": "National",
+              "userId": "a0e6690e-c4d5-4048-9ebc-833db5d4e67b",
+              "direction": "inbound",
+              "ani": "tel:+13435863971",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:54:36.397Z",
+              "conversationId": "ec1d6250-d700-4852-9d3b-8f46440d24e6",
+              "sessionId": "de30ee64-fa70-4da9-9fa4-42244db0f734",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "a2b36db8-e5e7-48e9-84b1-998d30a27735",
+              "direction": "inbound",
+              "ani": "tel:+906861735992",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:54:50.504Z",
+              "conversationId": "efd07f0a-c216-4e46-bb44-11d6b115bc93",
+              "sessionId": "4c18bce7-4d9d-4cee-9fe2-8649c0f47c56",
+              "routingPriority": 0,
+              "participantName": "National",
+              "userId": "670d712b-52e8-41a0-a9ed-355180e97500",
+              "direction": "inbound",
+              "ani": "tel:+18991509355",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:04.245Z",
+              "conversationId": "537da997-797b-4936-abd0-b87962d877ee",
+              "sessionId": "fbd25a16-8eaf-44f5-acea-290023a08876",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "f13fd875-60a5-49b2-97fb-6992d1d11495",
+              "direction": "inbound",
+              "ani": "tel:+614527249654",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:18.286Z",
+              "conversationId": "0aa2a591-cc45-4474-990d-27eeccea0d4b",
+              "sessionId": "a10723b5-9856-4d2c-8d93-2c5f901a07de",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "2ad787ed-43ac-4af0-8b93-179cd5880ba6",
+              "direction": "inbound",
+              "ani": "tel:+909765142127",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:55:32.241Z",
+              "conversationId": "5b4ecb23-7e7b-497f-87b8-6706d2505a63",
+              "sessionId": "e7501cab-97d7-4dba-9029-4d352426d6aa",
+              "routingPriority": 0,
+              "participantName": "Mobile Number, Georgia",
+              "userId": "0d5575df-b250-4595-a7ad-e93a8c96dbad",
+              "direction": "inbound",
+              "ani": "tel:+99557744139284",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:55:46.278Z",
+              "conversationId": "8bf5b8ff-8f4c-4f85-9a68-b8a9c700ef5b",
+              "sessionId": "297bb0a9-4ed9-4787-a87b-7e4b24a5e2f6",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "0c981cc8-83cc-4fe3-86aa-d8cf94c18f8f",
+              "direction": "inbound",
+              "ani": "tel:+907220782369",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:56:00.429Z",
+              "conversationId": "e46a8a7f-9a0b-4045-80d9-e89f9def4b16",
+              "sessionId": "8df52e0a-ea6a-496d-896a-0422ae0253b6",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "daa6f2ce-20b3-4ea6-8034-16ea238050e0",
+              "direction": "inbound",
+              "ani": "tel:+905621845059",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:56:14.329Z",
+              "conversationId": "ea0aa81e-7fd3-495d-9680-56d3d932e2a1",
+              "sessionId": "465898a4-735b-44c2-9d2f-b172c3b81a2d",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "cd612dae-179d-4864-85e8-075cba8759c9",
+              "direction": "inbound",
+              "ani": "tel:+900478305617",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:56:28.343Z",
+              "conversationId": "0f04bfb9-22fd-465a-b87e-99ac96e7f0aa",
+              "sessionId": "053fd8cc-5594-4d28-a9b8-c7d1a024e1ad",
+              "routingPriority": 0,
+              "participantName": "Turkey",
+              "userId": "433b0863-d026-438a-b509-ef574b764a24",
+              "direction": "inbound",
+              "ani": "tel:+904841629010",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ]
+            },
+            {
+              "observationDate": "2022-04-01T13:56:42.226Z",
+              "conversationId": "601f85de-5edd-45d9-95e6-3cb3d131d6c6",
+              "sessionId": "5ad30e4e-ee81-4524-b95a-2aa8716d800a",
+              "routingPriority": 0,
+              "participantName": "Luxembourg",
+              "userId": "a7675d4e-38b9-46f0-b82f-fc5cb3667d7b",
+              "direction": "inbound",
+              "ani": "tel:+352322274",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            },
+            {
+              "observationDate": "2022-04-01T13:56:56.391Z",
+              "conversationId": "7c2e7d86-2d72-410f-881b-d357941e686d",
+              "sessionId": "9a0c3dbc-0b81-4e87-8e76-ac88c6cbcd1c",
+              "routingPriority": 0,
+              "participantName": "International",
+              "userId": "b498de71-51f3-40c2-b83d-bb809cae6b84",
+              "direction": "inbound",
+              "ani": "tel:+616612039162",
+              "dnis": "tel:+18667771185",
+              "requestedRoutings": [
+                "Standard"
+              ],
+              "usedRouting": "Standard"
+            }
+          ]
+        },
+        {
+          "metric": "oWaiting",
+          "stats": {
+            "count": 0
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a"
+      },
+      "data": [
+        {
+          "metric": "oActiveUsers",
+          "stats": {
+            "count": 92
+          }
+        },
+        {
+          "metric": "oOnQueueUsers",
+          "qualifier": "INTERACTING",
+          "stats": {
+            "count": 52
+          }
+        },
+        {
+          "metric": "oOnQueueUsers",
+          "qualifier": "IDLE",
+          "stats": {
+            "count": 23
+          }
+        },
+        {
+          "metric": "oOnQueueUsers",
+          "qualifier": "NOT_RESPONDING",
+          "stats": {
+            "count": 1
+          }
+        },
+        {
+          "metric": "oOffQueueUsers",
+          "qualifier": "ccf3c10a-aa2c-4845-8e8d-f59fa48c58e5",
+          "stats": {
+            "count": 16
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a",
+        "mediaType": "callback"
+      },
+      "data": [
+        {
+          "metric": "oInteracting",
+          "stats": {
+            "count": 0
+          }
+        },
+        {
+          "metric": "oWaiting",
+          "stats": {
+            "count": 0
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a",
+        "mediaType": "message"
+      },
+      "data": [
+        {
+          "metric": "oInteracting",
+          "stats": {
+            "count": 0
+          }
+        },
+        {
+          "metric": "oWaiting",
+          "stats": {
+            "count": 0
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "queueId": "d6550b1c-9e9e-4b5f-b387-b575c9f0e94a",
+        "mediaType": "email"
+      },
+      "data": [
+        {
+          "metric": "oInteracting",
+          "stats": {
+            "count": 0
+          }
+        },
+        {
+          "metric": "oWaiting",
+          "stats": {
+            "count": 0
+          }
+        }
+      ]
+    }
+  ]
+}
